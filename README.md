@@ -1,4 +1,4 @@
 # reactive-sandbox
-Testing Project Reactor
+Simple Spring Boot application to test Project Reactor
 
-All Reactive testing is made as Unit Tests based on create domain model.
+All Reactive tests are made as Unit Tests based on created domain model.
